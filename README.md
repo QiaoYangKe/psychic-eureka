@@ -1,0 +1,2 @@
+# psychic-eureka
+test、 git
